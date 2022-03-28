@@ -43,6 +43,12 @@ const data = [
     event: "random",
     name: "Mountains",
   },
+  {
+    image: { img2 },
+    person: ["Imran", "Irfan", "Asif"],
+    event: "random pic",
+    name: "Mountains",
+  },
 ];
 
 export default data;
